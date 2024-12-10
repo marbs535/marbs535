@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Marvin Fabricante <img src="https://media.giphy.com/media/jsHVvDpDMCwbyLuYM0/giphy.gif" width="50"></h1>  
-###  <h3 align="left">🚀 I am currently studying Computer Science at STI College</h3>  
-###  <h2 align="left">About me</h2>  
-###  <h3 align="left">✨ Creating bugs since 2020<br><br>📖 I'm currently learning Azure Cloud Services<br><br>🎲 Fun fact: That I never stop on learning. Literally :></h3>  
-###  <h2 align="left">Programming Language and Tools</h2>  
-###  <div align="left">   
+  <h3 align="left">🚀 I am currently studying Computer Science at STI College</h3>  
+  <h2 align="left">About me</h2>  
+  <h3 align="left">✨ Creating bugs since 2020<br><br>📖 I'm currently learning Azure Cloud Services<br><br>🎲 Fun fact: That I never stop on learning. Literally :></h3>  
+  <h2 align="left">Programming Language and Tools</h2>  
+  <div align="left">   
   <a href="https://azure.microsoft.com/en-us/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  /></a>   
   <img width="12" />   
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  /></a>   
