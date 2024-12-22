@@ -1,10 +1,9 @@
 ```JavaScript
 const marbs = {
   name: "Marvin Fabricante",
-  profession: "Self-taught Full Stack Developer",
   location: "Philippines",
   passions: ["Building Web Applications", "Continuous Learning"],
-  skills: ["HTML", "CSS", "JavaScript", "Node.js", "Express.js", "React.js", "Next.js", "MongoDB", "PostgreSQL"],
+  skills: ["HTML", "CSS", "JavaScript", "Node.js", "Express.js", "React.js", "Next.js", "MongoDB", "PostgreSQL"]
 };
 ```
 
@@ -136,7 +135,17 @@ const marbs = {
   <a href="https://visualstudio.microsoft.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo" style="margin-right: 8px;" />
   </a>
+  <a href="https://www.chartjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=chartjs" height="40" alt="chartjs logo" style="margin-right: 8px;" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" style="margin-right: 8px;" />
+  </a>
+  <a href="https://jquery.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo" style="margin-right: 8px;" />
+  </a>
 </div>
+
 
 ###
 
