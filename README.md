@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I am an aspiring software developer, ui/ux and network administrator. I enjoy building things, especially on the backend side.</p>
+<p align="left">I am an aspiring software developer, ui/ux designer and network administrator. I enjoy building things, especially on the backend side.</p>
 
 ###
 
